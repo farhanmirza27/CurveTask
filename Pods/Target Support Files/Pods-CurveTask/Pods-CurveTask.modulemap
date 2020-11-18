@@ -1,0 +1,6 @@
+framework module Pods_CurveTask {
+  umbrella header "Pods-CurveTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
