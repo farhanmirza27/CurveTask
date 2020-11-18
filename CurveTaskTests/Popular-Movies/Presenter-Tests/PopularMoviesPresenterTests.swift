@@ -8,6 +8,7 @@
 import XCTest
 @testable import CurveTask
 
+/// Popular movies presenter tests...
 class PopularMoviesPresenterTests: XCTestCase {
     
     var sut : PopularMoviesPresenter?

@@ -8,6 +8,7 @@
 import XCTest
 @testable import  CurveTask
 
+/// Popular movies interactor tests...
 class PopularMoviesInteractorTests: XCTestCase {
     
     var sut : PopularMoviesInteractor?
